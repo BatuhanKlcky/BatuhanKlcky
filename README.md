@@ -28,4 +28,6 @@ I'm working on gameplay, level design and the overall atmosphere of the game usi
 
 ## 🔗 Connect with me
 
-[LinkedIn](SENİN_LINKEDIN_LINKİN)
+[LinkedIn](www.linkedin.com/in/batuhanklcky
+
+)
