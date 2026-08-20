@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Batuhan Kılıçkaya 👋
 
-<!--
-**BatuhanKlcky/BatuhanKlcky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in software development and technology.
 
-Here are some ideas to get you started:
+I enjoy building projects, learning new things and improving my skills by working on real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- C#
+- Unity
+- Git & GitHub
+- Visual Studio
+
+## 🎮 Current Project
+
+### Echoes of Ash
+
+A 2D atmospheric platformer currently in development.
+
+I'm working on gameplay, level design and the overall atmosphere of the game using Unity and C#.
+
+## 📚 Currently Learning
+
+- Software Development
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Game Development
+
+## 🔗 Connect with me
+
+[LinkedIn](SENİN_LINKEDIN_LINKİN)
