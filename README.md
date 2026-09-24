@@ -22,4 +22,4 @@ I'm a first-year Computer Engineering student interested in software development
 
 ### 📫 Connect with me
 
-*   [LinkedIn]([linkedin-linkini-buraya-yapistir](https://www.linkedin.com/in/batuhanklcky/))[cite: 1]
+*   [LinkedIn](https://www.linkedin.com/in/batuhanklcky/))[cite: 1]
