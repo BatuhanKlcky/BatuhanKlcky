@@ -6,7 +6,7 @@ I'm a first-year Computer Engineering student interested in software development
 
 *   **Game Development:** Currently developing "Echoes of Ash", a 2D atmospheric platformer. I'm working on gameplay, level design, and the overall atmosphere of the game using Unity and C#.
 *   **Web & 3D Experiments:** Building a basic interactive 3D web simulation called "sanalbahce" to practice JavaScript, HTML/CSS, and Three.js.
-*   **Python Practice:** Coding a simple desktop voice assistant named "Jarvis" to test myself and learn Python fundamentals.
+*   **Python Practice:** Coding a simple desktop voice assistant named "Rıfkı" to test myself and learn Python fundamentals.
 
 ### 🛠️ Technologies & Tools
 
