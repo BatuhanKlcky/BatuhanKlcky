@@ -21,7 +21,7 @@ I'm a first-year Computer Engineering student interested in software development
 *   Game Development
 
 
- [Main Site]([https://www.linkedin.com/in/batuhanklcky/](http://77xtechnology.com.tr/))
+ [Main Site]([http://77xtechnology.com.tr/)
 ### 📫 Connect with me
 
 *   [LinkedIn](https://www.linkedin.com/in/batuhanklcky/)
