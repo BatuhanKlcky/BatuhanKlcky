@@ -27,8 +27,7 @@
 | Project | Tech Stack | Status & Links |
 | :--- | :--- | :--- |
 | **[RIFKI 2.7.0](https://github.com/BatuhanKlcky/rifki-voice-assistant)** | Python · Gemini API · WebRTC H.264 · ONNX | `v2.7.0 Shipped` · [Repo](https://github.com/BatuhanKlcky/rifki-voice-assistant) |
-| **[dev-suite (repo-pulse)](https://github.com/BatuhanKlcky/dev-suite)** | TypeScript · Node.js · Web App | `Live Suite` · [Web](https://batuhanklcky.github.io/dev-suite/) · [Repo](https://github.com/BatuhanKlcky/dev-suite) · `npx repo-pulse-cli` |
-| **[dev-recap](https://github.com/BatuhanKlcky/dev-recap)** | TypeScript · Node.js · Git CLI | `v1.1.0 Open Source` · [Repo](https://github.com/BatuhanKlcky/dev-recap) · `npx dev-recap` |
+| **[dev-suite](https://github.com/BatuhanKlcky/dev-suite)** | TypeScript · Node.js · Web App | `Repo Pulse · Dev Recap · Env Guard` · [Web](https://batuhanklcky.github.io/dev-suite/) · [Repo](https://github.com/BatuhanKlcky/dev-suite) |
 | **[Goblin Miner: Gold Rush](https://batuhanklcky.github.io/goblinminer/)** | Godot 4 · Vulkan Mobile · C# / GDScript | `v1.9.0 (Build 10)` · [Details](https://batuhanklcky.github.io/goblinminer/) · [Repo](https://github.com/BatuhanKlcky/goblinminer) |
 | **[Abandoned in Space](https://batuhanklcky.github.io/abandoned-in-space/)** | Three.js · WebGL · Web Audio API · GLSL | `🥈 NASA Space Apps 2nd` · [Live Demo](https://batuhanklcky.github.io/abandoned-in-space/) · [Repo](https://github.com/BatuhanKlcky/abandoned-in-space) |
 | **[Sanal Bahçe](https://github.com/BatuhanKlcky/sanalbahce)** | JavaScript · Canvas / WebGL · Android | `Live on Google Play` · [Play Store](https://play.google.com/store/apps/details?id=com.batuhanklcky.sanalbahce) · [Repo](https://github.com/BatuhanKlcky/sanalbahce) |
